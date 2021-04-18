@@ -1,0 +1,41 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 9:29:29 PM] 17 files total
+[Info  - 9:29:29 PM] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/mvc-1/app/views/home/index.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/views/home/login.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/controllers/homecontroller.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/core/app.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/core/controller.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/autoload.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_static.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_real.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/InstalledVersions.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/installed.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_classmap.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/platform_check.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/ClassLoader.php
+Parsing file:///opt/lampp/htdocs/mvc-1/public/index.php
+[Info  - 9:29:30 PM] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/mvc-1/app/views/home/index.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/views/home/login.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/controllers/homecontroller.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/core/app.php
+Parsing file:///opt/lampp/htdocs/mvc-1/app/core/controller.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/autoload.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_static.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_real.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/InstalledVersions.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/installed.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/autoload_classmap.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/platform_check.php
+Parsing file:///opt/lampp/htdocs/mvc-1/vendor/composer/ClassLoader.php
+Parsing file:///opt/lampp/htdocs/mvc-1/public/index.php
+[Info  - 9:29:30 PM] 1 Packages
+[Info  - 9:29:30 PM] Restored dcblogdev/pdo-wrapper:2.0.1 from cache
+[Info  - 9:29:30 PM] All 17 PHP files parsed in 0 seconds. 152 MiB allocated.

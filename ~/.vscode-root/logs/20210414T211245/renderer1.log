@@ -1,0 +1,209 @@
+[2021-04-14 21:46:17.176] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Pr.revert (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:46185)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:39394
+    at async Promise.all (index 0)
+    at async Object.H [as settled] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:57:27045)
+    at async B.fireAsync (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:57:26655)
+    at async l.doCreateFileOrFolder (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:94259)
+    at async u.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:27763)
+    at async n.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:31440)
+    at async o._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:33270)
+    at async o.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:32812)
+    at async r.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:35282)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2007:17243
+[2021-04-14 21:46:17.217] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/controllers' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:38267)
+[2021-04-14 21:46:26.701] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Pr.revert (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:46185)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:39394
+    at async Promise.all (index 0)
+    at async Object.H [as settled] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:57:27045)
+    at async B.fireAsync (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:57:26655)
+    at async l.doCreateFileOrFolder (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:94259)
+    at async u.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:27763)
+    at async n.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:31440)
+    at async o._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:33270)
+    at async o.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:32812)
+    at async r.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:35282)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2007:17243
+[2021-04-14 21:46:26.747] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:38267)
+[2021-04-14 21:46:40.197] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+[2021-04-14 21:46:45.586] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/views' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/views' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/views' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/views' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Pr.revert (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:46185)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:39394
+    at async Promise.all (index 0)
+    at async Object.H [as settled] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:57:27045)
+    at async B.fireAsync (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:57:26655)
+    at async l.doCreateFileOrFolder (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:94259)
+    at async u.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:27763)
+    at async n.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:31440)
+    at async o._performFileEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:33270)
+    at async o.perform (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:32812)
+    at async r.apply (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:35282)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2007:17243
+[2021-04-14 21:46:45.626] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/views' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/views' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/views' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/views' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:38267)
+[2021-04-14 21:46:49.096] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/models' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+[2021-04-14 21:47:28.301] [renderer1] [error] Unable to read file '/opt/lampp/htdocs/mvc-2/app' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/app' that is actually a directory): Error: Unable to read file '/opt/lampp/htdocs/mvc-2/app' (Error: Unable to read file '/opt/lampp/htdocs/mvc-2/app' that is actually a directory)
+    at s.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:626:29459)
+    at async D.doRead (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44627)
+    at async D.readStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:44280)
+    at async Pr.loadFromFile (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2212:48815)
+    at async Object.factory (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2218:38267)
+[2021-04-14 22:06:37.893] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25393)
+	at new t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25342)
+	at new t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at U (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension.js:1:161710)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension.js:1:167056)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension.js:1:92964
+[2021-04-14 22:08:02.429] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25393)
+	at new t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25342)
+	at new t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at U (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension.js:1:161710)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension.js:1:167056)
+	at /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.6.3/lib/extension.js:1:92964
+[2021-04-14 22:11:24.679] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-14 22:15:15.992] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-16 23:19:11.926] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-16 23:49:59.781] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-17 00:20:48.087] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-17 01:59:49.158] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-17 02:05:58.658] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-17 02:17:13.073] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-17 02:39:40.483] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-18 01:05:43.669] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-18 01:06:07.560] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2021-04-18 01:06:09.229] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:25021)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:24970)
+	at new c (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:81:11705)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62

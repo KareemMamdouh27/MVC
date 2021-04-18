@@ -1,0 +1,61 @@
+[Running] php "/opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php"
+PHP Fatal error:  Uncaught Error: Class 'MVC\core\controller' not found in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php:7
+Stack trace:
+#0 {main}
+  thrown in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php on line 7
+
+[Done] exited with code=255 in 0.021 seconds
+
+[Running] php "/opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php"
+PHP Fatal error:  Uncaught Error: Class 'MVC\core\controller' not found in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php:7
+Stack trace:
+#0 {main}
+  thrown in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php on line 7
+
+[Done] exited with code=255 in 0.042 seconds
+
+[Running] php "/opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php"
+PHP Fatal error:  Uncaught Error: Class 'MVC\core\controller' not found in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php:7
+Stack trace:
+#0 {main}
+  thrown in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php on line 7
+
+[Done] exited with code=255 in 0.049 seconds
+
+[Running] php "/opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php"
+PHP Fatal error:  Uncaught Error: Class 'MVC\core\controller' not found in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php:7
+Stack trace:
+#0 {main}
+  thrown in /opt/lampp/htdocs/mvc-2/app/controllers/homecontroller.php on line 7
+
+[Done] exited with code=255 in 0.038 seconds
+
+[Running] php "/opt/lampp/htdocs/mvc-2/app/views/home/index.php"
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: /usr/lib/php/20190902/bz2 (/usr/lib/php/20190902/bz2: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/bz2.so (/usr/lib/php/20190902/bz2.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: /usr/lib/php/20190902/curl (/usr/lib/php/20190902/curl: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/curl.so (/usr/lib/php/20190902/curl.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: /usr/lib/php/20190902/gd2 (/usr/lib/php/20190902/gd2: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/gd2.so (/usr/lib/php/20190902/gd2.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: /usr/lib/php/20190902/intl (/usr/lib/php/20190902/intl: cannot open shared object file: No such file or directory), /usr/lib/php/20190902/intl.so (/usr/lib/php/20190902/intl.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  Module 'FFI' already loaded in Unknown on line 0
+PHP Warning:  Module 'fileinfo' already loaded in Unknown on line 0
+PHP Warning:  Module 'ftp' already loaded in Unknown on line 0
+PHP Warning:  Module 'gettext' already loaded in Unknown on line 0
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <h1></h1>
+    <ul>
+            </ul>
+</body>
+</html>PHP Notice:  Undefined variable: title in /opt/lampp/htdocs/mvc-2/app/views/home/index.php on line 7
+PHP Notice:  Undefined variable: h1 in /opt/lampp/htdocs/mvc-2/app/views/home/index.php on line 10
+PHP Notice:  Undefined variable: data in /opt/lampp/htdocs/mvc-2/app/views/home/index.php on line 12
+PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/mvc-2/app/views/home/index.php on line 12
+
+[Done] exited with code=0 in 0.32 seconds
+
